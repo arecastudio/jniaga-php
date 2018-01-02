@@ -1,3 +1,2 @@
 <?php
-echo "ini adalah permulaan.";
-?>
+phpinfo();
